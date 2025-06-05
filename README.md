@@ -8,7 +8,7 @@ How to use it ?
 
 Go to chrome://extensions/
 Activate the dev mod
-Load unpackaged extension 
+Load unpackaged extension (unzip it before)
 
 If u see a button to ur right with this example, it works !
 https://letterboxd.com/film/the-godfather/
